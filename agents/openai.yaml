@@ -1,0 +1,4 @@
+interface:
+  display_name: "高性价比人生指南Skills"
+  short_description: "结合原书依据和个人处境，比较生活选择、解释取舍并明确下一步行动"
+  default_prompt: "请用 $life-decision-assistant 帮我分析眼前这件拿不准的生活决定，比较可选方案并给出下一步。"
